@@ -1,7 +1,7 @@
 <?php
 
 /* Global */
-$_LANG['globalsystemname'] = "AdminSoba";
+$_LANG['globalsystemname'] = "Prva stran portala";
 $_LANG['globalyouarehere'] = "Nahajate se v";
 $_LANG['language'] = "Language/Jezik";
 $_LANG['imagecheck'] = "Zaradi varnosti vas prosimo, da prepišite spodnjo 5 mestno kodo ";
@@ -25,7 +25,7 @@ $_LANG['supportclickheretocontact'] = "Pišite nam";
 
 /* Client Area Navigation */
 
-$_LANG['clientareanavhome'] = "Admin<b>Soba</b>";
+$_LANG['clientareanavhome'] = "Domov";
 $_LANG['clientareanavdetails'] = "Moji podatki - profil";
 $_LANG['clientareanavhosting'] = "Moji paketi gostovanja";
 $_LANG['clientareahostingaddons'] = "Dodatki";
@@ -34,8 +34,8 @@ $_LANG['clientareanavdomains'] = "Moje domene";
 $_LANG['clientareanavsupporttickets'] = "Moji zahtevki za pomoč";
 $_LANG['clientareanavorder'] = "Naročilo dodatnih storitev";
 $_LANG['clientareanavlogout'] = "Odjava";
-$_LANG['clientareatitle'] = "AdminSoba";
-$_LANG['clientareaheader'] = "Podpora vam omogoča ogled in urejanje vaših uporabniških podatkov, podrobnosti o vaših paketih gostovanja spletnih strani ter domenah. AdminSoba vam omogoča pošiljanje zahtevkov za pomoč in naročanje dodatnih storitev.";
+$_LANG['clientareatitle'] = "Uporabniški vmesnik";
+$_LANG['clientareaheader'] = "Podpora vam omogoča ogled in urejanje vaših uporabniških podatkov, podrobnosti o vaših paketih gostovanja spletnih strani ter domenah. Ta uporabniški vmesnik vam omogoča pošiljanje zahtevkov za pomoč in naročanje dodatnih storitev.";
 
 /* Summary */
 
@@ -2371,7 +2371,7 @@ $_LANG['expiringsoon'] = "Kmalu poteče";
 $_LANG['notice'] = "Obvestilo";
 $_LANG['networkstatussubtitle'] = "Novice in informacije";
 
-$_LANG['myaccount'] = "Moja AdminSoba";
+$_LANG['myaccount'] = "Moj račun";
 
 $_LANG['manageproduct'] = "Upravljaj s produktom";
 $_LANG['overview'] = "Pregled";
