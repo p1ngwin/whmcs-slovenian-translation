@@ -1,8 +1,8 @@
-# Slovenski prevodi za WHMCS / Slovenian translation of WHMCS
+## Slovenski prevodi za WHMCS / Slovenian translation of WHMCS
 
 
 
-## Kako uporabiti / How to use?
+### Kako uporabiti / How to use?
 
 Prenesite si datoteko lang/slovenian.php in jo namestite v vaš whmcs/lang/ direktorij.
 To je vse.
@@ -12,7 +12,7 @@ That is it.
 
 
 
-## Orodje za pomoč prevajanju / translation assistance tool?
+### Orodje za pomoč prevajanju / translation assistance tool?
 
 To orodje poskrbi, da ciljna jezikovna datoteka vsebuje vse prevode V ISTEM ZAPOREDJU kot izvorna jezikovna datoteka.
 Prenese vse, tako prevode kot tudi vse komentarje in presledke. Če ciljna jezikovna datoteka že obstaja, uporabi
@@ -26,18 +26,19 @@ cd whmcs-translation-slovenian
 
 ./sbin/init-repository
 
+# Po 'defaultu' sinhronizira slovenski jezik na angleškega
 ./bin/langtool sync
 
-# Other options
+# Lahko se uporabi tudi za druge jezike
 ./bin/langtool sync slovenian
 ./bin/langtool sync --source=english slovenian
 ```
 
 
 
-## Kako prispevati popravke/nove prevode?
+### Kako prispevati popravke/nove prevode?
 
-Classic GitHub method:
+Klasičen GitHub workflow:
 * fork
 * create new branch
 * hack-hack-hack
@@ -45,5 +46,6 @@ Classic GitHub method:
 * push to GitHub, to that new branch
 * issue a pull request on GitHub
 
-Opozorilo: s prispevanjem popravkov v ta repozitorij se strinjate, da so ti
-popravki na voljo upravljalcu tega repozitorija pod MIT licenco.
+Opozorilo: s prispevanjem svojih popravkov v ta repozitorij se strinjate,
+da so ti popravki na voljo upravljalcu tega repozitorija (in svetu) pod
+MIT licenco.
