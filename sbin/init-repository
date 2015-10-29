@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+
+
+### Switch to git repo root
+#
+MYDIR=`dirname $0`
+cd $MYDIR/..
+
+
+
+### Install dependencies
+#
+if which composer &> /dev/null; then
+    composer install
+else
+    curl -sS https://getcomposer.org/installer | php
+    php composer.phar install
+fi
