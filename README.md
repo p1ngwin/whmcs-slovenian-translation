@@ -1,4 +1,4 @@
-## Slovenski prevodi za WHMCS / Slovenian translation of WHMCS
+## Slovenski prevod WHMCS-ja / Slovenian translation of WHMCS
 
 
 
