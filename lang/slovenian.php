@@ -538,7 +538,7 @@ $_LANG['ordergotoclientarea'] = "Kliknite za dostop do Naročniškega centra";
 
 
 /* Order Error Messages */
-$_LANG["ordererrordomainalreadyexists"] = "Vpisana domena je že registrirana pri nas in usmerjena na naše imenske strežnike";
+$_LANG['ordererrordomainalreadyexists'] = "Vpisana domena je že registrirana pri nas in usmerjena na naše imenske strežnike";
 $_LANG['ordererrordomainnotld'] = "Vpisati morate domensko končnico (npr: com)";
 $_LANG['ordererrordomaininvalid'] = "Vpisana domena ni veljavna";
 $_LANG['ordererrordomainregistered'] = "Domena je že registrirana";
@@ -905,125 +905,125 @@ $_LANG['ordersecure2'] = "preko katerega dostopate.";
 
 
 
-$_LANG["nocarddetails"] = "No existing card details on record";
+$_LANG['nocarddetails'] = "No existing card details on record";
 
 
 
-$_LANG["domainnameservers"] = "DNS strežniki";
+$_LANG['domainnameservers'] = "DNS strežniki";
 
 
 
-$_LANG["domainnameserver1"] = "DNS strežnik 1";
+$_LANG['domainnameserver1'] = "DNS strežnik 1";
 
 
 
-$_LANG["domainnameserver2"] = "DNS strežnik 2";
+$_LANG['domainnameserver2'] = "DNS strežnik 2";
 
 
 
-$_LANG["domainnameserver3"] = "DNS strežnik 3";
+$_LANG['domainnameserver3'] = "DNS strežnik 3";
 
 
 
-$_LANG["domainnameserver4"] = "DNS strežnik 4";
+$_LANG['domainnameserver4'] = "DNS strežnik 4";
 
 
 
-$_LANG["domainmanagementtools"] = "Orodja za urejanje domene";
+$_LANG['domainmanagementtools'] = "Orodja za urejanje domene";
 
 
 
-$_LANG["domaincontactinfo"] = "Kontaktni podakti";
+$_LANG['domaincontactinfo'] = "Kontaktni podakti";
 
 
 
-$_LANG["domainemailforwarding"] = "Preusmeritev e-pošte";
+$_LANG['domainemailforwarding'] = "Preusmeritev e-pošte";
 
 
 
-$_LANG["domaindnsmanagement"] = "DNS upravljanje";
-$_LANG["domaindnsmanagementwarning1"] = "OPOZORILO: Namenjeno strankam, ki nimajo dostopa do cPanel-a.";
-$_LANG["domaindnsmanagementwarning2"] = "OPOZORILO: Ne označite, če želite domeno dodati v obstoječi cPanel/WHM paket gostovanja!";
+$_LANG['domaindnsmanagement'] = "DNS upravljanje";
+$_LANG['domaindnsmanagementwarning1'] = "OPOZORILO: Namenjeno strankam, ki nimajo dostopa do cPanel-a.";
+$_LANG['domaindnsmanagementwarning2'] = "OPOZORILO: Ne označite, če želite domeno dodati v obstoječi cPanel/WHM paket gostovanja!";
 
 
 
-$_LANG["domainemailforwardingdesc"] = "Preusmeritev e-pošte na vaš obstoječi e-mail naslov. Nastavitve, vpisi in spremembe bodo aktivne v roku ene ure od vpisa.";
+$_LANG['domainemailforwardingdesc'] = "Preusmeritev e-pošte na vaš obstoječi e-mail naslov. Nastavitve, vpisi in spremembe bodo aktivne v roku ene ure od vpisa.";
 
 
 
-$_LANG["domaindnsmanagementdesc"] = "Preusmeritev vaše domene na spletno strani, na IP naslov, preusmeritev na drugo ali začasno spletno stran (Parking) še več možnosti. DNS zapise urejete preko spodnjega obrazca. Za lažje delo smo izraze pustili v angleškem jezku.";
+$_LANG['domaindnsmanagementdesc'] = "Preusmeritev vaše domene na spletno strani, na IP naslov, preusmeritev na drugo ali začasno spletno stran (Parking) še več možnosti. DNS zapise urejete preko spodnjega obrazca. Za lažje delo smo izraze pustili v angleškem jezku.";
 
 
 
-$_LANG["domaindnshostname"] = "Ime gostitelja";
+$_LANG['domaindnshostname'] = "Ime gostitelja";
 
 
 
-$_LANG["domaindnsrecordtype"] = "Tip zapisa";
+$_LANG['domaindnsrecordtype'] = "Tip zapisa";
 
 
 
-$_LANG["domaindnsaddress"] = "Naslov";
+$_LANG['domaindnsaddress'] = "Naslov";
 
 
 
-$_LANG["domainidprotection"] = "Whois zaščita";
+$_LANG['domainidprotection'] = "Whois zaščita";
 
 
 
-$_LANG["domainrenew"] = "Podaljšanje domene";
+$_LANG['domainrenew'] = "Podaljšanje domene";
 
 
 
-$_LANG["domainrenewdesc"] = "Vašo domeno lahko podaljšate že sedaj. Izberite željeno obdobje podaljšanja.";
+$_LANG['domainrenewdesc'] = "Vašo domeno lahko podaljšate že sedaj. Izberite željeno obdobje podaljšanja.";
 
 
 
-$_LANG["domainorderrenew"] = "Naročilo podaljšanja";
+$_LANG['domainorderrenew'] = "Naročilo podaljšanja";
 
 
 
-$_LANG["domainemailforwardingprefix"] = "Predpona";
+$_LANG['domainemailforwardingprefix'] = "Predpona";
 
 
 
-$_LANG["domainemailforwardingforwardto"] = "Preusmeritev na";
+$_LANG['domainemailforwardingforwardto'] = "Preusmeritev na";
 
 
 
-$_LANG["domainregistrarlock"] = "Zaklepanje domene";
+$_LANG['domainregistrarlock'] = "Zaklepanje domene";
 
 
 
-$_LANG["domainregistrarlockdesc"] = "Dodatna zaščita pred nepoblaščenem prenosom domene na drugega lastnika (registrar lock).";
+$_LANG['domainregistrarlockdesc'] = "Dodatna zaščita pred nepoblaščenem prenosom domene na drugega lastnika (registrar lock).";
 
 
 
-$_LANG["domaincurrentrenewaldate"] = "Trenutni datum poteka";
+$_LANG['domaincurrentrenewaldate'] = "Trenutni datum poteka";
 
 
 
-$_LANG["domaineppcode"] = "EPP avtorizacijska koda";
+$_LANG['domaineppcode'] = "EPP avtorizacijska koda";
 
 
 
-$_LANG["domaineppcodedesc"] = "Avtorizacijsko kodo pridobite pri trenutnem registrarju vaše domene. Če vaš trenutni registrar EPP avtorizacijskih kod za .si domene še ne podpira, <b>vnesite namesto kode znak pomišljaj (-)</b>.";
+$_LANG['domaineppcodedesc'] = "Avtorizacijsko kodo pridobite pri trenutnem registrarju vaše domene. Če vaš trenutni registrar EPP avtorizacijskih kod za .si domene še ne podpira, <b>vnesite namesto kode znak pomišljaj (-)</b>.";
 
 
 
-$_LANG["invoicenumber"] = "Račun ";
+$_LANG['invoicenumber'] = "Račun ";
 
 
 
-$_LANG["proformainvoicenumber"] = "Predračun #";
+$_LANG['proformainvoicenumber'] = "Predračun #";
 
 
 
-$_LANG["forwardingtogateway"] = "Prosimo počakajte dokler vas ne preusmerimo na procesni center za zaključek plačila...";
+$_LANG['forwardingtogateway'] = "Prosimo počakajte dokler vas ne preusmerimo na procesni center za zaključek plačila...";
 
-$_LANG["clientareacancelled"] = "Preklicano";
+$_LANG['clientareacancelled'] = "Preklicano";
 
-$_LANG["clientareafraud"] = "Prevara";
+$_LANG['clientareafraud'] = "Prevara";
 
 
 
@@ -1031,213 +1031,213 @@ $_LANG["clientareafraud"] = "Prevara";
 
 
 
-$_LANG["addfunds"] = "Vplačilo depozita";
+$_LANG['addfunds'] = "Vplačilo depozita";
 
-$_LANG["addfundsdescription"] = "Z vplačilom depozita na naš račun si zagotovite, da bodo plačila za vaša naročila samodejno označena kot plačana. Vplačnih depozitov ne vračamo.";
+$_LANG['addfundsdescription'] = "Z vplačilom depozita na naš račun si zagotovite, da bodo plačila za vaša naročila samodejno označena kot plačana. Vplačnih depozitov ne vračamo.";
 
-$_LANG["addfundsminimum"] = "Najmanjši znesek depozita";
+$_LANG['addfundsminimum'] = "Najmanjši znesek depozita";
 
-$_LANG["addfundsmaximum"] = "Največji znesek depozita";
+$_LANG['addfundsmaximum'] = "Največji znesek depozita";
 
-$_LANG["addfundsmaximumbalance"] = "Največje skupno dobroimetje";
+$_LANG['addfundsmaximumbalance'] = "Največje skupno dobroimetje";
 
-$_LANG["addfundsamount"] = "Znesek depozita";
+$_LANG['addfundsamount'] = "Znesek depozita";
 
-$_LANG["addfundsminimumerror"] = "Najmanjši znesek depozita znaša";
+$_LANG['addfundsminimumerror'] = "Najmanjši znesek depozita znaša";
 
-$_LANG["addfundsmaximumerror"] = "Največji znesek depozita znaša";
+$_LANG['addfundsmaximumerror'] = "Največji znesek depozita znaša";
 
-$_LANG["addfundsmaximumbalanceerror"] = "Največje skupno dobroimetje znaša";
+$_LANG['addfundsmaximumbalanceerror'] = "Največje skupno dobroimetje znaša";
 
 
 
-$_LANG["clientareanavcontacts"] = "Urejanje kontaktov";
+$_LANG['clientareanavcontacts'] = "Urejanje kontaktov";
 
-$_LANG["clientareanavaddcontact"] = "Dodaj nov kontakt";
+$_LANG['clientareanavaddcontact'] = "Dodaj nov kontakt";
 
-$_LANG["clientareanavchangecc"] = "Spremeni podatke kreditne kartice";
+$_LANG['clientareanavchangecc'] = "Spremeni podatke kreditne kartice";
 
-$_LANG["clientareanavchangepw"] = "Sprememba gesla";
+$_LANG['clientareanavchangepw'] = "Sprememba gesla";
 
 
 
-$_LANG["clientareacontactsemails"] = "E-mail nastavitve";
+$_LANG['clientareacontactsemails'] = "E-mail nastavitve";
 
-$_LANG["clientareacontactsemailsgeneral"] = "Splošni e-mail - Splošna obvestila & pozabljena gesla";
+$_LANG['clientareacontactsemailsgeneral'] = "Splošni e-mail - Splošna obvestila & pozabljena gesla";
 
-$_LANG["clientareacontactsemailsproduct"] = "E-mail za storitve - Potrditve naročil, osnovni podatki za dostop, ...";
+$_LANG['clientareacontactsemailsproduct'] = "E-mail za storitve - Potrditve naročil, osnovni podatki za dostop, ...";
 
-$_LANG["clientareacontactsemailsdomain"] = "E-mail za domene - Obvestila za podaljšanje domen, potrditve registracije, ...";
+$_LANG['clientareacontactsemailsdomain'] = "E-mail za domene - Obvestila za podaljšanje domen, potrditve registracije, ...";
 
-$_LANG["clientareacontactsemailsinvoice"] = "E-mail za (pred)račune - Predračuni in finančne zadeve";
+$_LANG['clientareacontactsemailsinvoice'] = "E-mail za (pred)račune - Predračuni in finančne zadeve";
 
-$_LANG["clientareacontactsemailssupport"] = "E-mail za podporo - Podpora in pomoč";
+$_LANG['clientareacontactsemailssupport'] = "E-mail za podporo - Podpora in pomoč";
 
 
 
-$_LANG["clientareanocontacts"] = "Ni dodatnih kontaktov";
+$_LANG['clientareanocontacts'] = "Ni dodatnih kontaktov";
 
-$_LANG["clientareadeletecontact"] = "Brisanje kontakta";
+$_LANG['clientareadeletecontact'] = "Brisanje kontakta";
 
-$_LANG["clientareadeletecontactareyousure"] = "Si prepričan, da želiš zbrisati ta kontakt?";
+$_LANG['clientareadeletecontactareyousure'] = "Si prepričan, da želiš zbrisati ta kontakt?";
 
 
 
-$_LANG["newpassword"] = "Novo geslo";
+$_LANG['newpassword'] = "Novo geslo";
 
-$_LANG["confirmnewpassword"] = "Potrditev novega gesla";
+$_LANG['confirmnewpassword'] = "Potrditev novega gesla";
 
 
 
-$_LANG["defaultbillingcontact"] = "Kontakt za plačila";
+$_LANG['defaultbillingcontact'] = "Kontakt za plačila";
 
-$_LANG["usedefaultcontact"] = "Privzet kontakt (Zgornji podatki)";
+$_LANG['usedefaultcontact'] = "Privzet kontakt (Zgornji podatki)";
 
 
 
-$_LANG["carttitle"] = "Nakupovalna košarica";
+$_LANG['carttitle'] = "Nakupovalna košarica";
 
-$_LANG["addtocart"] = "Dodaj v košarico";
+$_LANG['addtocart'] = "Dodaj v košarico";
 
-$_LANG["viewcart"] = "Vpogled v košarico";
+$_LANG['viewcart'] = "Vpogled v košarico";
 
-$_LANG["emptycart"] = "Izprazni košarico";
+$_LANG['emptycart'] = "Izprazni košarico";
 
-$_LANG["updatecart"] = "Posodobi košarico";
+$_LANG['updatecart'] = "Posodobi košarico";
 
-$_LANG["continueshopping"] = "Naročilo dodatnih storitev";
+$_LANG['continueshopping'] = "Naročilo dodatnih storitev";
 
-$_LANG["checkout"] = "Zaključi nakup";
+$_LANG['checkout'] = "Zaključi nakup";
 
-$_LANG["cartempty"] = "Tvoja košarica je prazna";
+$_LANG['cartempty'] = "Tvoja košarica je prazna";
 
 
 
-$_LANG["carteditproductconfig"] = "Urejanje nastavitev";
+$_LANG['carteditproductconfig'] = "Urejanje nastavitev";
 
-$_LANG["cartremove"] = "Odstrani";
+$_LANG['cartremove'] = "Odstrani";
 
-$_LANG["cartconfigdomainextras"] = "Nastavitev dodatnih možnosti";
+$_LANG['cartconfigdomainextras'] = "Nastavitev dodatnih možnosti";
 
 
 
-$_LANG["cartbrowse"] = "Pregled storitev";
+$_LANG['cartbrowse'] = "Pregled storitev";
 
 
 
-$_LANG["cartproductconfig"] = "Nastavitve paketa";
+$_LANG['cartproductconfig'] = "Nastavitve paketa";
 
-$_LANG["cartproductdomaindesc"] = "Izbrana storitev zahteva, da izberete domeno, ki ko želite uporabljati.";
+$_LANG['cartproductdomaindesc'] = "Izbrana storitev zahteva, da izberete domeno, ki ko želite uporabljati.";
 
-$_LANG["cartproductdomainuseincart"] = "Želim uporabiti domeno, ki jo imam v nakupovalni košarici";
+$_LANG['cartproductdomainuseincart'] = "Želim uporabiti domeno, ki jo imam v nakupovalni košarici";
 
-$_LANG["cartproductdomainchoose"] = "Izbira domene";
+$_LANG['cartproductdomainchoose'] = "Izbira domene";
 
-$_LANG["cartproductdesc"] = "Izbrani storitvi lahko nastavljate spodnje možnosti:";
+$_LANG['cartproductdesc'] = "Izbrani storitvi lahko nastavljate spodnje možnosti:";
 
-$_LANG["cartconfigoptionsdesc"] = "Ta produkt/storitev ima nekaj možnosti med katerimi lahko izbirate spodaj.";
+$_LANG['cartconfigoptionsdesc'] = "Ta produkt/storitev ima nekaj možnosti med katerimi lahko izbirate spodaj.";
 
-$_LANG["cartaddons"] = "Dodatki";
+$_LANG['cartaddons'] = "Dodatki";
 
-$_LANG["cartcustomfieldsdesc"] = "Ta produkt/storitev zahteva nekaj dodatnih informacij, da bomo lahko izpeljali naročilo.";
+$_LANG['cartcustomfieldsdesc'] = "Ta produkt/storitev zahteva nekaj dodatnih informacij, da bomo lahko izpeljali naročilo.";
 
-$_LANG["cartproductdomain"] = "Domene";
+$_LANG['cartproductdomain'] = "Domene";
 
 
 
-$_LANG["registerdomain"] = "Registracija domene";
+$_LANG['registerdomain'] = "Registracija domene";
 
-$_LANG["transferdomain"] = "Prenos domene";
+$_LANG['transferdomain'] = "Prenos domene";
 
-$_LANG["registerdomainname"] = "Registracija domene";
+$_LANG['registerdomainname'] = "Registracija domene";
 
-$_LANG["transferdomainname"] = "Prenos registracije domene";
+$_LANG['transferdomainname'] = "Prenos registracije domene";
 
-$_LANG["registerdomaindesc"] = "Vpišite ime domene, ki jo želite registrirati in sistem bo preveril ali je le-ta še prosta.";
+$_LANG['registerdomaindesc'] = "Vpišite ime domene, ki jo želite registrirati in sistem bo preveril ali je le-ta še prosta.";
 
-$_LANG["transferdomaindesc"] = "Želite prenesti ŽE REGISTRIRANO domeno k nam? Za začetek postopka vpišite ime vaše domene v spodnji obrazec.";
+$_LANG['transferdomaindesc'] = "Želite prenesti ŽE REGISTRIRANO domeno k nam? Za začetek postopka vpišite ime vaše domene v spodnji obrazec.";
 
 
 
-$_LANG["cartdomainsconfig"] = "Nastavitve domene";
+$_LANG['cartdomainsconfig'] = "Nastavitve domene";
 
-$_LANG["cartdomainsconfigdesc"] = "V nadaljevanju lahko izberete dodatke k domenam, ki jih imate v nakupovalni košarici ter vpišite željene imenske strežnike (DSN servers). Le-te boste lahko kadarkoli posodabljali preko Naročniškega centra.";
+$_LANG['cartdomainsconfigdesc'] = "V nadaljevanju lahko izberete dodatke k domenam, ki jih imate v nakupovalni košarici ter vpišite željene imenske strežnike (DSN servers). Le-te boste lahko kadarkoli posodabljali preko Naročniškega centra.";
 
-$_LANG["cartdomainsnohosting"] = "Samo domena! Dodajte paket za gostovanje";
+$_LANG['cartdomainsnohosting'] = "Samo domena! Dodajte paket za gostovanje";
 
-$_LANG["cartnameserversdesc"] = "Vpišite imenske strežnike (DNS servers) za vašo domeno. Le-te lahko nastavitve tudi kasneje preko Naročniškega centra.";
+$_LANG['cartnameserversdesc'] = "Vpišite imenske strežnike (DNS servers) za vašo domeno. Le-te lahko nastavitve tudi kasneje preko Naročniškega centra.";
 
-$_LANG["domainregistrantinfo"] = "Podatki za registracijo domene";
+$_LANG['domainregistrantinfo'] = "Podatki za registracijo domene";
 
-$_LANG["domainregistrantchoose"] = "Izberite kontaktne podatke za domeno";
+$_LANG['domainregistrantchoose'] = "Izberite kontaktne podatke za domeno";
 
 
 
-$_LANG["cartexistingclientlogin"] = "Prijava za obstoječe uporabnike";
+$_LANG['cartexistingclientlogin'] = "Prijava za obstoječe uporabnike";
 
-$_LANG["cartexistingclientlogindesc"] = "Naročilo bomo dodali v vaš ostoječi uporabniški račun. Prosimo vas, da se prijavite v sistem z vnosom vašega e-poštnega naslova in gesla.";
+$_LANG['cartexistingclientlogindesc'] = "Naročilo bomo dodali v vaš ostoječi uporabniški račun. Prosimo vas, da se prijavite v sistem z vnosom vašega e-poštnega naslova in gesla.";
 
 
 
-$_LANG["cartproductaddons"] = "Dodatki storitvam";
+$_LANG['cartproductaddons'] = "Dodatki storitvam";
 
-$_LANG["cartproductaddonsnone"] = "Za izbrano storitev ni na voljo dodatkov";
+$_LANG['cartproductaddonsnone'] = "Za izbrano storitev ni na voljo dodatkov";
 
-$_LANG["cartproductaddonschoosepackage"] = "Izberite paket";
+$_LANG['cartproductaddonschoosepackage'] = "Izberite paket";
 
 
 
-$_LANG["cartconfigserver"] = "Podatki za strežnik";
+$_LANG['cartconfigserver'] = "Podatki za strežnik";
 
-$_LANG["serverhostname"] = "Ime strežnika";
+$_LANG['serverhostname'] = "Ime strežnika";
 
-$_LANG["serverns1prefix"] = "NS1";
+$_LANG['serverns1prefix'] = "NS1";
 
-$_LANG["serverns2prefix"] = "NS2";
+$_LANG['serverns2prefix'] = "NS2";
 
-$_LANG["serverrootpw"] = "Root geslo";
+$_LANG['serverrootpw'] = "Root geslo";
 
 
 
-$_LANG["ordercompletebutnotpaid"] = "Opozorilo! Vaše naročilo je uspešno sprejeto, vendar bomo le-to aktivirali šele, ko prejmemo vaše plačilo.";
+$_LANG['ordercompletebutnotpaid'] = "Opozorilo! Vaše naročilo je uspešno sprejeto, vendar bomo le-to aktivirali šele, ko prejmemo vaše plačilo.";
 
 
 
-$_LANG["domainregnotavailable"] = "N/A";
+$_LANG['domainregnotavailable'] = "N/A";
 
 
 
-$_LANG["domainregistration"] = "Registracija domene";
+$_LANG['domainregistration'] = "Registracija domene";
 
-$_LANG["domaintransfer"] = "Prenos domene";
+$_LANG['domaintransfer'] = "Prenos domene";
 
-$_LANG["domainrenewal"] = "Podaljšanje domene";
+$_LANG['domainrenewal'] = "Podaljšanje domene";
 
 
 
-$_LANG["carttaxupdateselections"] = "Znesek DDVja je izračunan glede na lokacijo nakupa in vašega statusa. Za pravilen izračun vas prosimo, da po vnosu podatkov klinete na gumb Posodobi.";
+$_LANG['carttaxupdateselections'] = "Znesek DDVja je izračunan glede na lokacijo nakupa in vašega statusa. Za pravilen izračun vas prosimo, da po vnosu podatkov klinete na gumb Posodobi.";
 
-$_LANG["carttaxupdateselectionsupdate"] = "Posodobi";
+$_LANG['carttaxupdateselectionsupdate'] = "Posodobi";
 
 
 
-$_LANG["completeorder"] = "Zaključi naročilo";
+$_LANG['completeorder'] = "Zaključi naročilo";
 
 
 
-$_LANG["yourdetails"] = "Vaši podatki";
+$_LANG['yourdetails'] = "Vaši podatki";
 
-$_LANG["alreadyregistered"] = "Ste obstoječi uporabnik?";
+$_LANG['alreadyregistered'] = "Ste obstoječi uporabnik?";
 
-$_LANG["clickheretologin"] = "Kliknite tu za prijavo";
+$_LANG['clickheretologin'] = "Kliknite tu za prijavo";
 
-$_LANG["clientddv2"] = "Fizične osebe v polje ID za DDV vpišite: 000000";
+$_LANG['clientddv2'] = "Fizične osebe v polje ID za DDV vpišite: 000000";
 
-$_LANG["oprstr"] = "Datum opravljanja storitve:";
+$_LANG['oprstr'] = "Datum opravljanja storitve:";
 
-$_LANG["zavezanec"] = "Zavezanec za DDV:";
+$_LANG['zavezanec'] = "Zavezanec za DDV:";
 
-$_LANG["racfooterid"] = "<center>Toj to!</center>";
+$_LANG['racfooterid'] = "<center>Toj to!</center>";
 
 
 
@@ -1245,81 +1245,81 @@ $_LANG["racfooterid"] = "<center>Toj to!</center>";
 
 
 
-$_LANG["existingpassword"] = "Trenutno geslo";
+$_LANG['existingpassword'] = "Trenutno geslo";
 
-$_LANG["existingpasswordincorrect"] = "Vaše trenutno geslo ni pravilno";
-
-
-
-$_LANG["morechoices"] = "Več možnosti";
-
-$_LANG["checkavailability"] = "Preverite razpoložljivost";
+$_LANG['existingpasswordincorrect'] = "Vaše trenutno geslo ni pravilno";
 
 
 
-$_LANG["latefee"] = "Zamudne obresti";
+$_LANG['morechoices'] = "Več možnosti";
 
-$_LANG["latefeeadded"] = "Dodano";
+$_LANG['checkavailability'] = "Preverite razpoložljivost";
 
 
 
-$_LANG["clientareaaddfundsnotallowed"] = "Za vplačilo depozita morate imeti vsaj eno aktivno naročilo. V tem trenutku z vplačila ne morete izvesti!";
+$_LANG['latefee'] = "Zamudne obresti";
+
+$_LANG['latefeeadded'] = "Dodano";
+
+
+
+$_LANG['clientareaaddfundsnotallowed'] = "Za vplačilo depozita morate imeti vsaj eno aktivno naročilo. V tem trenutku z vplačila ne morete izvesti!";
 
 # Version 3.6.1
 
 
 
-$_LANG["domaingeteppcode"] = "Pridobi EPP kodo";
-$_LANG["domaingeteppcodeexplanation"] = "EPP koda je geslo za ime domene. To je varnostni ventil, ki omogoča prenos domene le lastniku. Potrebovali jo boste, ko boste želeli domeno prenesti k drugemu registrarju.";
-$_LANG["domaingeteppcodeemailconfirmation"] = "Zahtevek za EPP kodo je bil uspešen! Poslan je bil na email registrarja vaše domene.";
-$_LANG["domaingeteppcodeis"] = "EPP koda za vašo domeno je:";
-$_LANG["domaingeteppcodefailure"] = "Pri pridobivanju EPP kode se je pojavila napaka:";
+$_LANG['domaingeteppcode'] = "Pridobi EPP kodo";
+$_LANG['domaingeteppcodeexplanation'] = "EPP koda je geslo za ime domene. To je varnostni ventil, ki omogoča prenos domene le lastniku. Potrebovali jo boste, ko boste želeli domeno prenesti k drugemu registrarju.";
+$_LANG['domaingeteppcodeemailconfirmation'] = "Zahtevek za EPP kodo je bil uspešen! Poslan je bil na email registrarja vaše domene.";
+$_LANG['domaingeteppcodeis'] = "EPP koda za vašo domeno je:";
+$_LANG['domaingeteppcodefailure'] = "Pri pridobivanju EPP kode se je pojavila napaka:";
 
 
 
-$_LANG["domainregisterns"] = "Registacija domenskih strežnikov";
-$_LANG["domainregisternsexplanation"] = "<b>POZOR:</b> Tukaj ne dodajate že obstoječih domenskih strežnikov k vaši domeni.<br /><b>POZOR:</b> Dodajanje domenskih strežnikov lahko izvajate na prejšnji strani, na zavihku 'DNS strežniki'.<br /><b>POZOR:</b> Tu lahko ustvarite nove domenske strežnike.<br /><b>POZOR:</b> Novoustvarjene domenske strežnike je nato potrebno dodati med DNS strežnike, ki so določeni za to domeno.";
-$_LANG["domainregisternsreg"] = "Registraj nov domenski strežnik";
-$_LANG["domainregisternsmod"] = "Spremeni IP(v4) domenskega strežnika";
-$_LANG["domainregisternsdel"] = "Zbriši domenski strežnik";
-$_LANG["domainregisternsns"] = "Domenski strežnik";
-$_LANG["domainregisternsip"] = "IP naslov";
-$_LANG["domainregisternscurrentip"] = "Trenutni IP naslov";
-$_LANG["domainregisternsnewip"] = "Nov IP naslov";
-$_LANG["domainregisternsregsuccess"] = "Domenski strežnik {$nameserver} uspešno registriran";
-$_LANG["domainregisternsmodsuccess"] = "Domenski strežnik {$nameserver} uspešno spremenjen";
-$_LANG["domainregisternsdelsuccess"] = "Domenski strežnik {$nameserver} uspešno odstranjen";
+$_LANG['domainregisterns'] = "Registacija domenskih strežnikov";
+$_LANG['domainregisternsexplanation'] = "<b>POZOR:</b> Tukaj ne dodajate že obstoječih domenskih strežnikov k vaši domeni.<br /><b>POZOR:</b> Dodajanje domenskih strežnikov lahko izvajate na prejšnji strani, na zavihku 'DNS strežniki'.<br /><b>POZOR:</b> Tu lahko ustvarite nove domenske strežnike.<br /><b>POZOR:</b> Novoustvarjene domenske strežnike je nato potrebno dodati med DNS strežnike, ki so določeni za to domeno.";
+$_LANG['domainregisternsreg'] = "Registraj nov domenski strežnik";
+$_LANG['domainregisternsmod'] = "Spremeni IP(v4) domenskega strežnika";
+$_LANG['domainregisternsdel'] = "Zbriši domenski strežnik";
+$_LANG['domainregisternsns'] = "Domenski strežnik";
+$_LANG['domainregisternsip'] = "IP naslov";
+$_LANG['domainregisternscurrentip'] = "Trenutni IP naslov";
+$_LANG['domainregisternsnewip'] = "Nov IP naslov";
+$_LANG['domainregisternsregsuccess'] = "Domenski strežnik {$nameserver} uspešno registriran";
+$_LANG['domainregisternsmodsuccess'] = "Domenski strežnik {$nameserver} uspešno spremenjen";
+$_LANG['domainregisternsdelsuccess'] = "Domenski strežnik {$nameserver} uspešno odstranjen";
 
-$_LANG["invoiceaddcreditdesc1"] = "Vaše stanje računa je";
-$_LANG["invoiceaddcreditdesc2"] = "To je lahko dodano na predračun z uporabo spodnjega obrazca.";
-$_LANG["invoiceaddcreditamount"] = "Vnesite znesek za dodajanje";
-$_LANG["invoiceaddcreditapply"] = "Dodaj znesek";
-$_LANG["invoiceaddcreditovercredit"] = "Ne morete dodati več, kot imate na računu.";
-$_LANG["invoiceaddcreditoverbalance"] = "Ne morete dodati več, kot je stanje dolga.";
-
-
-
-$_LANG["domainsimplesearch"] = "Preprosto iskanje domen";
-$_LANG["domainbulksearch"] = "Masovno iskanje domen";
-$_LANG["domainbulksearchintro"] = "Masovno iskanje domen vam omogoča iskanje do 20 domen. Vpišite domene v spodnje polje.(eno na vrstico, spredaj ne vpisujte www. ali http:// )";
+$_LANG['invoiceaddcreditdesc1'] = "Vaše stanje računa je";
+$_LANG['invoiceaddcreditdesc2'] = "To je lahko dodano na predračun z uporabo spodnjega obrazca.";
+$_LANG['invoiceaddcreditamount'] = "Vnesite znesek za dodajanje";
+$_LANG['invoiceaddcreditapply'] = "Dodaj znesek";
+$_LANG['invoiceaddcreditovercredit'] = "Ne morete dodati več, kot imate na računu.";
+$_LANG['invoiceaddcreditoverbalance'] = "Ne morete dodati več, kot je stanje dolga.";
 
 
-$_LANG["cartdomainshashosting"] = "Ima gostovanje";
-$_LANG["domainsautorenew"] = "Podaljševanje domene";
-$_LANG["domainsautorenewstatus"] = "Trenutni status";
-$_LANG["domainsautorenewenabled"] = "Vključeno";
-$_LANG["domainsautorenewdisabled"] = "Izključeno";
-$_LANG["domainsautorenewenable"] = "Vključi";
-$_LANG["domainsautorenewdisable"] = "Izključi";
-$_LANG["domainsautorenewdisabledwarning"] = "POZOR! Domena ob koncu obdobja registracije ne bo podlajšana.<br />Ko bo potekla bo le-te postala neaktivna, razen če boste njeno podlaljšanje posebej zahtevali.";
 
-$_LANG["cartremoveitemconfirm"] = "Ali ste prepričani, da želite odstraniti produkt iz vaše košarice?";
-$_LANG["cartemptyconfirm"] = "Ali želite izprazniti vašo nakupovalno košarico?";
-$_LANG["outofstock"] = "Ni na zalogi";
-$_LANG["outofstockdescription"] = "Trenutno ni zaloge za ta izdelek, zato bodo naročila zanj preklicana, dokler se zaloga ne obnovi. Za več informacij nas kontaktirajte.";
-$_LANG["downloadpurchaserequired"] = "Dostop zavrnjen - Za dostop morate najprej kupiti povezane produkte";
-$_LANG["downloadloginrequired"] = "Dostop zavrnjen - Za prenos morate biti prijavljeni";
-$_LANG["clientareapendingtransfer"] = "Prenos poteka";
+$_LANG['domainsimplesearch'] = "Preprosto iskanje domen";
+$_LANG['domainbulksearch'] = "Masovno iskanje domen";
+$_LANG['domainbulksearchintro'] = "Masovno iskanje domen vam omogoča iskanje do 20 domen. Vpišite domene v spodnje polje.(eno na vrstico, spredaj ne vpisujte www. ali http:// )";
+
+
+$_LANG['cartdomainshashosting'] = "Ima gostovanje";
+$_LANG['domainsautorenew'] = "Podaljševanje domene";
+$_LANG['domainsautorenewstatus'] = "Trenutni status";
+$_LANG['domainsautorenewenabled'] = "Vključeno";
+$_LANG['domainsautorenewdisabled'] = "Izključeno";
+$_LANG['domainsautorenewenable'] = "Vključi";
+$_LANG['domainsautorenewdisable'] = "Izključi";
+$_LANG['domainsautorenewdisabledwarning'] = "POZOR! Domena ob koncu obdobja registracije ne bo podlajšana.<br />Ko bo potekla bo le-te postala neaktivna, razen če boste njeno podlaljšanje posebej zahtevali.";
+
+$_LANG['cartremoveitemconfirm'] = "Ali ste prepričani, da želite odstraniti produkt iz vaše košarice?";
+$_LANG['cartemptyconfirm'] = "Ali želite izprazniti vašo nakupovalno košarico?";
+$_LANG['outofstock'] = "Ni na zalogi";
+$_LANG['outofstockdescription'] = "Trenutno ni zaloge za ta izdelek, zato bodo naročila zanj preklicana, dokler se zaloga ne obnovi. Za več informacij nas kontaktirajte.";
+$_LANG['downloadpurchaserequired'] = "Dostop zavrnjen - Za dostop morate najprej kupiti povezane produkte";
+$_LANG['downloadloginrequired'] = "Dostop zavrnjen - Za prenos morate biti prijavljeni";
+$_LANG['clientareapendingtransfer'] = "Prenos poteka";
 
 
 
@@ -1327,63 +1327,63 @@ $_LANG["clientareapendingtransfer"] = "Prenos poteka";
 
 
 
-$_LANG["more"] = "Več";
+$_LANG['more'] = "Več";
 
-$_LANG["kbsuggestions"] = "Predlogi iz baze znanja";
+$_LANG['kbsuggestions'] = "Predlogi iz baze znanja";
 
-$_LANG["kbsuggestionsexplanation"] = "V bazi znanja so bili najdeni naslednji članki, ki morda odgovorijo na vaš problem. Prosimo preglejte predloge, preden oddate vprašanje.";
-
-
-
-$_LANG["sslconfsslcertificate"] = "Konfiguriraj SSL certifikat";
-
-$_LANG["sslcertinfo"] = "Informacije SSL certifikata";
-
-$_LANG["sslorderdate"] = "Datum naročila";
-
-$_LANG["sslcerttype"] = "Tip certifikata";
-
-$_LANG["sslstatus"] = "Stanje konfiguracije";
-
-$_LANG["sslserverinfo"] = "Informacije strežnika";
-
-$_LANG["sslserverinfodetails"] = "Imeti morate veljaven \"CSR\" (Certificate Signing Request) za konfiguracijo SSL certifikata. CSR je kriptiran del teksta generiranega s strani strežnika, kjer se bo SSL certifikat namestil. Če še nimate CSRja, ga morate generirati ali prositi ponudnika gostovanja, da vam ga generira. Preverite, da ste vnesli prave podatke, saj po tem, ko je certifikat vnešen ne morejo biti spremenjeni.";
-
-$_LANG["sslservertype"] = "Tip spletnega strežnik";
-
-$_LANG["sslcsr"] = "CSR";
-
-$_LANG["ssladmininfo"] = "Administratorski kontakt";
-
-$_LANG["ssladmininfodetails"] = "Kontaktni podatki spodaj se ne bodo prikazali v certifikatu - uporabljeni so samo za kontakt v zvezi z naročilom. SSL certifikat in kasnejša obvestila bodo poslana na spodnji email naslov.";
-
-$_LANG["sslcertapproveremail"] = "Potrditveni email za certifikat";
-
-$_LANG["sslcertapproveremaildetails"] = "Izberite iz spodnjih možnosti, kam bi radi prejeli potrditveni email za certifikat.";
-
-$_LANG["sslconfigcomplete"] = "Konfiguracija končana";
-
-$_LANG["sslconfigcompletedetails"] = "Konfiguracija SSL certifikata je končana. Poslana je bila izdajatelju certifikatov v pregled. Kmalu bi morali prejeti email sporočilo s povezavo za potrditev izdaje certifikata. Sporočilo bo poslano na izbrani email naslov, ki je vezan na domeno, za katero se certifikat izdaja. Če tega sporočila v roku 24 ur ne dobite, nas kontaktirajte.";
-
-$_LANG["sslinvalidlink"] = "Sledili ste napačni povezavi.";
-
-$_LANG["sslerrorselectserver"] = "Izbrati morate tip spletne strežnika";
-
-$_LANG["sslerrorentercsr"] = "Vnesti morate CSR (certificate signing request)";
-
-$_LANG["sslerrorapproveremail"] = "Izbrati morate email za potrjevanje";
+$_LANG['kbsuggestionsexplanation'] = "V bazi znanja so bili najdeni naslednji članki, ki morda odgovorijo na vaš problem. Prosimo preglejte predloge, preden oddate vprašanje.";
 
 
 
-$_LANG["organizationname"] = "Ime organizacije";
+$_LANG['sslconfsslcertificate'] = "Konfiguriraj SSL certifikat";
 
-$_LANG["jobtitle"] = "Naziv";
+$_LANG['sslcertinfo'] = "Informacije SSL certifikata";
+
+$_LANG['sslorderdate'] = "Datum naročila";
+
+$_LANG['sslcerttype'] = "Tip certifikata";
+
+$_LANG['sslstatus'] = "Stanje konfiguracije";
+
+$_LANG['sslserverinfo'] = "Informacije strežnika";
+
+$_LANG['sslserverinfodetails'] = "Imeti morate veljaven \"CSR\" (Certificate Signing Request) za konfiguracijo SSL certifikata. CSR je kriptiran del teksta generiranega s strani strežnika, kjer se bo SSL certifikat namestil. Če še nimate CSRja, ga morate generirati ali prositi ponudnika gostovanja, da vam ga generira. Preverite, da ste vnesli prave podatke, saj po tem, ko je certifikat vnešen ne morejo biti spremenjeni.";
+
+$_LANG['sslservertype'] = "Tip spletnega strežnik";
+
+$_LANG['sslcsr'] = "CSR";
+
+$_LANG['ssladmininfo'] = "Administratorski kontakt";
+
+$_LANG['ssladmininfodetails'] = "Kontaktni podatki spodaj se ne bodo prikazali v certifikatu - uporabljeni so samo za kontakt v zvezi z naročilom. SSL certifikat in kasnejša obvestila bodo poslana na spodnji email naslov.";
+
+$_LANG['sslcertapproveremail'] = "Potrditveni email za certifikat";
+
+$_LANG['sslcertapproveremaildetails'] = "Izberite iz spodnjih možnosti, kam bi radi prejeli potrditveni email za certifikat.";
+
+$_LANG['sslconfigcomplete'] = "Konfiguracija končana";
+
+$_LANG['sslconfigcompletedetails'] = "Konfiguracija SSL certifikata je končana. Poslana je bila izdajatelju certifikatov v pregled. Kmalu bi morali prejeti email sporočilo s povezavo za potrditev izdaje certifikata. Sporočilo bo poslano na izbrani email naslov, ki je vezan na domeno, za katero se certifikat izdaja. Če tega sporočila v roku 24 ur ne dobite, nas kontaktirajte.";
+
+$_LANG['sslinvalidlink'] = "Sledili ste napačni povezavi.";
+
+$_LANG['sslerrorselectserver'] = "Izbrati morate tip spletne strežnika";
+
+$_LANG['sslerrorentercsr'] = "Vnesti morate CSR (certificate signing request)";
+
+$_LANG['sslerrorapproveremail'] = "Izbrati morate email za potrjevanje";
 
 
 
-$_LANG["upgradeproductlogic"] = "Cena nadgradnje paketa gostovanja je izračunana iz zneska že plačanega obdobja, v primerjavi z enakim obdobjem za nov paket gostovanja.";
+$_LANG['organizationname'] = "Ime organizacije";
 
-$_LANG["days"] = "dni";
+$_LANG['jobtitle'] = "Naziv";
+
+
+
+$_LANG['upgradeproductlogic'] = "Cena nadgradnje paketa gostovanja je izračunana iz zneska že plačanega obdobja, v primerjavi z enakim obdobjem za nov paket gostovanja.";
+
+$_LANG['days'] = "dni";
 
 
 
@@ -1427,108 +1427,108 @@ $_LANG['telesignverify'] = "Your phone number %s needs to be verified to complet
 
 # Version 3.7.0
 
-$_LANG["show"] = "Prikaži";
-$_LANG["all"] = "Vse";
-$_LANG["yes"] = "Da";
-$_LANG["no"] = "Ne";
-$_LANG["recurring"] = "Ponavljajoče";
-$_LANG["relatedservice"] = "Dopolnilne storitve";
-$_LANG["none"] = "Brez";
-$_LANG["ordersummary"] = "Povzetek naročila";
-$_LANG["norecordsfound"] = "Ni najdenih zadetkov";
-$_LANG["accountstats"] = "Statistika uporabnika";
-$_LANG["statsnumproducts"] = "Število storitev";
-$_LANG["statsnumdomains"] = "Število domen";
-$_LANG["statsnumtickets"] = "Število zahtevkov za pomoč";
-$_LANG["statsnumreferredsignups"] = "Število affiliate priporočil";
-$_LANG["statscreditbalance"] = "Stanje na računu";
-$_LANG["statsdueinvoicesbalance"] = "Znesek neplačanih predračunov";
+$_LANG['show'] = "Prikaži";
+$_LANG['all'] = "Vse";
+$_LANG['yes'] = "Da";
+$_LANG['no'] = "Ne";
+$_LANG['recurring'] = "Ponavljajoče";
+$_LANG['relatedservice'] = "Dopolnilne storitve";
+$_LANG['none'] = "Brez";
+$_LANG['ordersummary'] = "Povzetek naročila";
+$_LANG['norecordsfound'] = "Ni najdenih zadetkov";
+$_LANG['accountstats'] = "Statistika uporabnika";
+$_LANG['statsnumproducts'] = "Število storitev";
+$_LANG['statsnumdomains'] = "Število domen";
+$_LANG['statsnumtickets'] = "Število zahtevkov za pomoč";
+$_LANG['statsnumreferredsignups'] = "Število affiliate priporočil";
+$_LANG['statscreditbalance'] = "Stanje na računu";
+$_LANG['statsdueinvoicesbalance'] = "Znesek neplačanih predračunov";
 
 # Version 3.8.0
 
-$_LANG["networkissuestitle"] = "Napake na strežnikih";
-$_LANG["networkissuesaffecting"] = "Dostopnost mreže";
-$_LANG["networkissuespriority"] = "Prioriteta";
-$_LANG["networkissuesdate"] = "Datum";
-$_LANG["networkissueslastupdated"] = "Zadnja posodobitev";
-$_LANG["networkissuesprioritycritical"] = "Kritična";
-$_LANG["networkissuesprioritylow"] = "Nizka";
-$_LANG["networkissuesprioritymedium"] = "Srednja";
-$_LANG["networkissuespriorityhigh"] = "Visoka";
-$_LANG["networkissuesstatusopen"] = "Odprto";
-$_LANG["networkissuesstatusreported"] = "Reported";
-$_LANG["networkissuesstatusinprogress"] = "V odpravljanju";
-$_LANG["networkissuesstatusinvestigating"] = "Preverjanje";
-$_LANG["networkissuesstatusoutage"] = "Izpad";
-$_LANG["networkissuesstatusscheduled"] = "Napovedano";
-$_LANG["networkissuesstatusresolved"] = "Odpravljeno";
-$_LANG["networkissuestypeserver"] = "Strežnik";
-$_LANG["networkissuestypesystem"] = "Sistem";
-$_LANG["networkissuestypeother"] = "Drugo";
-$_LANG["networkissuesnonefound"] = "Ni napak na strežnikih";
-$_LANG["networkissuesaffectingyourservers"] = "Opomba: Napake na strežnikih, kjer imate odprto gostovanje bo poudarjeno z zlatim ozadjem.";
-$_LANG["creditcard3dsecure"] = "As part of our fraud prevention measures, you will now be asked to perform the Verified by Visa or Mastercard SecureCode checks if your credit card is enrolled for this service";
-$_LANG["ordernotes"] = "Opombe / dodatni napotki";
-$_LANG["ordernotesdescription"] = "V primeru, da imate dodatne želje in opombe glede vašega naročila, Vas naprošamo da jih vpišete v to okno. Dodatne želje lahko podaljšajo čas izvedbe naročila.";
-$_LANG["ticketratingquestion"] = "Kako bi ocenil naš odgovor?";
-$_LANG["ticketreatinggiven"] = "Odgovor si oceni z";
-$_LANG["ticketratingpoor"] = "Slabo";
-$_LANG["ticketratingexcellent"] = "Odlično";
-$_LANG["pleasewait"] = "Trenutek...";
-$_LANG["clientareadescription"] = "Preglej in posodobi podatke uporabniškega računa";
-$_LANG["affiliatesdescription"] = "Postani naš affiliate partner";
-$_LANG["announcementsdescription"] = "Preglej obvestila in novice";
-$_LANG["downloadsdescription"] = "Preglej datoteke za prenos";
-$_LANG["knowledgebasedescription"] = "Prebrskaj po naši bazi pomoči";
-$_LANG["supportticketsdescription"] = "Preglej in odgovori na zahtevke";
-$_LANG["submitticketdescription"] = "Odpri zahtevek za pomoč";
-$_LANG["presalescontactdescription"] = "Zahtevaj ponudbo";
-$_LANG["orderdescription"] = "Dodaj novo naročilo";
-$_LANG["domaincheckerdescription"] = "Preverite razpoložljivost domene";
-$_LANG["serverstatusdescription"] = "Preveri stanje naših strežnikov";
-$_LANG["networkissuesdescription"] = "Preberi o trenutnih in napovedanih motnjah na strežnik";
-$_LANG["domainbulktransfersearch"] = "Množičen prenos domen";
-$_LANG["domainbulktransferdescription"] = "K nam lahko prenesete registracijo več vaših domen. V spodnje polje enostavno vpišite imena vaših domen, v vsako vrstico po eno; domene vpišite brez www. ali http://";
+$_LANG['networkissuestitle'] = "Napake na strežnikih";
+$_LANG['networkissuesaffecting'] = "Dostopnost mreže";
+$_LANG['networkissuespriority'] = "Prioriteta";
+$_LANG['networkissuesdate'] = "Datum";
+$_LANG['networkissueslastupdated'] = "Zadnja posodobitev";
+$_LANG['networkissuesprioritycritical'] = "Kritična";
+$_LANG['networkissuesprioritylow'] = "Nizka";
+$_LANG['networkissuesprioritymedium'] = "Srednja";
+$_LANG['networkissuespriorityhigh'] = "Visoka";
+$_LANG['networkissuesstatusopen'] = "Odprto";
+$_LANG['networkissuesstatusreported'] = "Reported";
+$_LANG['networkissuesstatusinprogress'] = "V odpravljanju";
+$_LANG['networkissuesstatusinvestigating'] = "Preverjanje";
+$_LANG['networkissuesstatusoutage'] = "Izpad";
+$_LANG['networkissuesstatusscheduled'] = "Napovedano";
+$_LANG['networkissuesstatusresolved'] = "Odpravljeno";
+$_LANG['networkissuestypeserver'] = "Strežnik";
+$_LANG['networkissuestypesystem'] = "Sistem";
+$_LANG['networkissuestypeother'] = "Drugo";
+$_LANG['networkissuesnonefound'] = "Ni napak na strežnikih";
+$_LANG['networkissuesaffectingyourservers'] = "Opomba: Napake na strežnikih, kjer imate odprto gostovanje bo poudarjeno z zlatim ozadjem.";
+$_LANG['creditcard3dsecure'] = "As part of our fraud prevention measures, you will now be asked to perform the Verified by Visa or Mastercard SecureCode checks if your credit card is enrolled for this service";
+$_LANG['ordernotes'] = "Opombe / dodatni napotki";
+$_LANG['ordernotesdescription'] = "V primeru, da imate dodatne želje in opombe glede vašega naročila, Vas naprošamo da jih vpišete v to okno. Dodatne želje lahko podaljšajo čas izvedbe naročila.";
+$_LANG['ticketratingquestion'] = "Kako bi ocenil naš odgovor?";
+$_LANG['ticketreatinggiven'] = "Odgovor si oceni z";
+$_LANG['ticketratingpoor'] = "Slabo";
+$_LANG['ticketratingexcellent'] = "Odlično";
+$_LANG['pleasewait'] = "Trenutek...";
+$_LANG['clientareadescription'] = "Preglej in posodobi podatke uporabniškega računa";
+$_LANG['affiliatesdescription'] = "Postani naš affiliate partner";
+$_LANG['announcementsdescription'] = "Preglej obvestila in novice";
+$_LANG['downloadsdescription'] = "Preglej datoteke za prenos";
+$_LANG['knowledgebasedescription'] = "Prebrskaj po naši bazi pomoči";
+$_LANG['supportticketsdescription'] = "Preglej in odgovori na zahtevke";
+$_LANG['submitticketdescription'] = "Odpri zahtevek za pomoč";
+$_LANG['presalescontactdescription'] = "Zahtevaj ponudbo";
+$_LANG['orderdescription'] = "Dodaj novo naročilo";
+$_LANG['domaincheckerdescription'] = "Preverite razpoložljivost domene";
+$_LANG['serverstatusdescription'] = "Preveri stanje naših strežnikov";
+$_LANG['networkissuesdescription'] = "Preberi o trenutnih in napovedanih motnjah na strežnik";
+$_LANG['domainbulktransfersearch'] = "Množičen prenos domen";
+$_LANG['domainbulktransferdescription'] = "K nam lahko prenesete registracijo več vaših domen. V spodnje polje enostavno vpišite imena vaših domen, v vsako vrstico po eno; domene vpišite brez www. ali http://";
 
 # Version 4.0
-$_LANG["accountinfo"] = "Uporabniški podatki";
-$_LANG["choosecurrency"] = "Izberi valuto";
-$_LANG["clientareacurrentsecurityanswer"] = "Vpiši trenutni odgovor";
-$_LANG["clientareacurrentsecurityquestion"] = "Izberi trenutno varnostno vprašanje";
-$_LANG["clientareanavsecurityquestions"] = "Spremeni varnostno vprašanje";
-$_LANG["clientareanavservices"] = "Moje storitve";
-$_LANG["clientareasecurityanswer"] = "Vpiši odgovor";
-$_LANG["clientareasecurityconfanswer"] = "Potrdi svoj odgovor";
-$_LANG["clientareasecurityquestion"] = "Izberi varnostno vprašanje";
-$_LANG["creditcardenternumber"] = "Niste vnesli številke kreditne kartice";
-$_LANG["creditcardnumberinvalid"] = "Vnešena številka kreditne kartice je napačna";
-$_LANG["customfieldvalidationerror"] = "vrednost je napačna";
-$_LANG["downloaddescription"] = "Opis";
-$_LANG["downloadname"] = "Prenos";
-$_LANG["invoicescollections"] = "Zbirke";
-$_LANG["invoicesrefunded"] = "Povrnjeno";
-$_LANG["latestannouncements"] = "Zadnja obvestila";
-$_LANG["or"] = "ali";
-$_LANG["passwordremindercontactsupport"] = "Nimaš varnostnih vprašanj - kontaktiraj podporo uporabnikom";
-$_LANG["passwordremindervalidate"] = "Potrdi";
-$_LANG["passwordremindervalidationerror"] = "Vaš varnostni odogovor ne more biti preverjen - prosimo kontaktirajte podporo uporabnikom";
-$_LANG["promoexistingclient"] = "Imeti morate aktiven produkt/storitev za uporabo kode";
-$_LANG["promoonceperclient"] = "To kodo lahko stranka uporabi zgolj enkrat";
-$_LANG["pwstrengthfail"] = "Vpisano geslo ni dovolj varno - vpišite novo geslo";
-$_LANG["quicknav"] = "Hitra navigacija";
-$_LANG["rssfeed"] = "Vir";
-$_LANG["securityanswerrequired"] = "Vpisati moraš varnostno vprašanje";
-$_LANG["securitybothnotmatch"] = "Vaš odgovor in potrditev odgovora se ne ujemata";
-$_LANG["securitycurrentincorrect"] = "Vaše trenutno varnostno vprašanje in odgovor nista pravilna";
-$_LANG["step"] = "Korak";
-$_LANG["supportticketsticketattachments"] = "Priponke";
-$_LANG["whoisresults"] = "WHOIS rezultati za";
+$_LANG['accountinfo'] = "Uporabniški podatki";
+$_LANG['choosecurrency'] = "Izberi valuto";
+$_LANG['clientareacurrentsecurityanswer'] = "Vpiši trenutni odgovor";
+$_LANG['clientareacurrentsecurityquestion'] = "Izberi trenutno varnostno vprašanje";
+$_LANG['clientareanavsecurityquestions'] = "Spremeni varnostno vprašanje";
+$_LANG['clientareanavservices'] = "Moje storitve";
+$_LANG['clientareasecurityanswer'] = "Vpiši odgovor";
+$_LANG['clientareasecurityconfanswer'] = "Potrdi svoj odgovor";
+$_LANG['clientareasecurityquestion'] = "Izberi varnostno vprašanje";
+$_LANG['creditcardenternumber'] = "Niste vnesli številke kreditne kartice";
+$_LANG['creditcardnumberinvalid'] = "Vnešena številka kreditne kartice je napačna";
+$_LANG['customfieldvalidationerror'] = "vrednost je napačna";
+$_LANG['downloaddescription'] = "Opis";
+$_LANG['downloadname'] = "Prenos";
+$_LANG['invoicescollections'] = "Zbirke";
+$_LANG['invoicesrefunded'] = "Povrnjeno";
+$_LANG['latestannouncements'] = "Zadnja obvestila";
+$_LANG['or'] = "ali";
+$_LANG['passwordremindercontactsupport'] = "Nimaš varnostnih vprašanj - kontaktiraj podporo uporabnikom";
+$_LANG['passwordremindervalidate'] = "Potrdi";
+$_LANG['passwordremindervalidationerror'] = "Vaš varnostni odogovor ne more biti preverjen - prosimo kontaktirajte podporo uporabnikom";
+$_LANG['promoexistingclient'] = "Imeti morate aktiven produkt/storitev za uporabo kode";
+$_LANG['promoonceperclient'] = "To kodo lahko stranka uporabi zgolj enkrat";
+$_LANG['pwstrengthfail'] = "Vpisano geslo ni dovolj varno - vpišite novo geslo";
+$_LANG['quicknav'] = "Hitra navigacija";
+$_LANG['rssfeed'] = "Vir";
+$_LANG['securityanswerrequired'] = "Vpisati moraš varnostno vprašanje";
+$_LANG['securitybothnotmatch'] = "Vaš odgovor in potrditev odgovora se ne ujemata";
+$_LANG['securitycurrentincorrect'] = "Vaše trenutno varnostno vprašanje in odgovor nista pravilna";
+$_LANG['step'] = "Korak";
+$_LANG['supportticketsticketattachments'] = "Priponke";
+$_LANG['whoisresults'] = "WHOIS rezultati za";
 
 # Version 4.1
 
-$_LANG["clientareafiles"] = "Pripete datoteke";
-$_LANG["clientareafilesdate"] = "Datum";
-$_LANG["clientareafilesfilename"] = "Ime datoteke";
+$_LANG['clientareafiles'] = "Pripete datoteke";
+$_LANG['clientareafilesdate'] = "Datum";
+$_LANG['clientareafilesfilename'] = "Ime datoteke";
 $_LANG['pwreset'] = "Pridobitev pozabljenega gesla";
 $_LANG['pwresetdesc'] = "Če ste pozabili svoje geslo, ga lahko preko resetirate preko spodnjega obrazca. Vanj vpišite email naslov, ki je vpisan v profilu Naročniškega centra oziroma ste ga dosedaj uporabljabljali v komunikaciji z nami, nato pa vam bomo poslali navodila, kako nastaviti novo geslo.";
 $_LANG['pwresetemailrequired'] = "Vnesite vaš e-naslov";
@@ -1596,14 +1596,14 @@ $_LANG['masspayselected'] = "Plačaj izbrane";
 $_LANG['masspayall'] = "Plačaj vse";
 $_LANG['masspaymakepayment'] = "Izvedi plačilo";
 
-$_LANG["davcna"] = "ID za DDV:";
-$_LANG["telefon"] = "Telefon:";
-$_LANG["eposta"] = "E-posta:";
-$_LANG["transakcijski"] = "Transakcijski račun:";
-$_LANG["podpis"] = "Spletne storitve";
-$_LANG["placilosklic"] = "Pri plačilu obvezno navedite sklicno številko:";
-$_LANG["placanodne"] = "Plačilo prejeto dne";
-$_LANG["davcna2"] = "ID za DDV:";
+$_LANG['davcna'] = "ID za DDV:";
+$_LANG['telefon'] = "Telefon:";
+$_LANG['eposta'] = "E-posta:";
+$_LANG['transakcijski'] = "Transakcijski račun:";
+$_LANG['podpis'] = "Spletne storitve";
+$_LANG['placilosklic'] = "Pri plačilu obvezno navedite sklicno številko:";
+$_LANG['placanodne'] = "Plačilo prejeto dne";
+$_LANG['davcna2'] = "ID za DDV:";
 
 # Version 4.3
 
@@ -1689,56 +1689,56 @@ $_LANG['cartdomaininvalid'] = "Domena, ki ste jo vnesli ni veljavna. Vnesite sam
 
 # Version 4.4
 
-$_LANG["dlinvalidlink"] = "Neveljavna sled povezave. Prosimo kontaktirajte podporo";
+$_LANG['dlinvalidlink'] = "Neveljavna sled povezave. Prosimo kontaktirajte podporo";
 
 $_LANG['domaindnsmanagementlaunch'] = "Zaženi DNS upravitelja";
 $_LANG['domainemailforwardinglaunch'] = "Zaženi upravitelja za posredovanje e-pošte";
 
-$_LANG["addmore"] = "Dodaj več";
+$_LANG['addmore'] = "Dodaj več";
 
-$_LANG["changessavedsuccessfully"] = "Spremembe uspešno shranjene!";
+$_LANG['changessavedsuccessfully'] = "Spremembe uspešno shranjene!";
 
-$_LANG["clientareachoosecontact"] = "Izberite kontakt";
+$_LANG['clientareachoosecontact'] = "Izberite kontakt";
 
-$_LANG["domaineppcoderequired"] = "Vpisati morate EPP kodo za";
+$_LANG['domaineppcoderequired'] = "Vpisati morate EPP kodo za";
 
-$_LANG["maxmind_anonproxy"] = "Ne dovolimo oddajanje naročil z uporabo anonimnega proxy-a";
+$_LANG['maxmind_anonproxy'] = "Ne dovolimo oddajanje naročil z uporabo anonimnega proxy-a";
 
-$_LANG["maxmind_callingnow"] = "Izvajamo avtomatski klic na vašo telefonsko številko. To je del naših ukrepov za preverjanje goljufij. Dobili boste 4-mestno varnostno kodo, ki jo boste morali vnesti spodaj, za zaključek vašega naročila.";
+$_LANG['maxmind_callingnow'] = "Izvajamo avtomatski klic na vašo telefonsko številko. To je del naših ukrepov za preverjanje goljufij. Dobili boste 4-mestno varnostno kodo, ki jo boste morali vnesti spodaj, za zaključek vašega naročila.";
 
-$_LANG["maxmind_countrymismatch"] = "IP naslov vaše države se ne ujema z vašim IP-jem, ki ste ga vnesli, zato ne moremo sprejeti vašega naročila";
+$_LANG['maxmind_countrymismatch'] = "IP naslov vaše države se ne ujema z vašim IP-jem, ki ste ga vnesli, zato ne moremo sprejeti vašega naročila";
 
-$_LANG["maxmind_error"] = "Napaka";
+$_LANG['maxmind_error'] = "Napaka";
 
-$_LANG["maxmind_faileddescription"] = "Koda, ki ste jo vnesli ni pravilna. Če menite, da je to napaka, se obrnite na našo pomoč, v najkrajšem možnem času.";
+$_LANG['maxmind_faileddescription'] = "Koda, ki ste jo vnesli ni pravilna. Če menite, da je to napaka, se obrnite na našo pomoč, v najkrajšem možnem času.";
 
-$_LANG["maxmind_highfraudriskscore"] = 'Vaše naročilo je bilo zaznano kot možnost zlorabe. Zato boste morali počakati, da naši uredniki preverijo vaše naročilo in ročno sprožijo potrditev.';
+$_LANG['maxmind_highfraudriskscore'] = 'Vaše naročilo je bilo zaznano kot možnost zlorabe. Zato boste morali počakati, da naši uredniki preverijo vaše naročilo in ročno sprožijo potrditev.';
 
-$_LANG["maxmind_highriskcountry"] = "Vaše naročilo je bilo zaznano, kot možnost zlorabe. Zato boste morali počakati, da naši uredniki preverijo vaše naročilo in ročno sprožijo potrditev.";
+$_LANG['maxmind_highriskcountry'] = "Vaše naročilo je bilo zaznano, kot možnost zlorabe. Zato boste morali počakati, da naši uredniki preverijo vaše naročilo in ročno sprožijo potrditev.";
 
-$_LANG["maxmind_incorrectcode"] = "Napačna koda";
+$_LANG['maxmind_incorrectcode'] = "Napačna koda";
 
-$_LANG["maxmind_pincode"] = "Pin koda";
+$_LANG['maxmind_pincode'] = "Pin koda";
 
-$_LANG["maxmind_rejectemail"] = "Naročil, katera uporabljajo brezplačen e-poštni naslov, ne dovolimo, prosimo poskusite znova z drugim e-poštnim naslovom";
+$_LANG['maxmind_rejectemail'] = "Naročil, katera uporabljajo brezplačen e-poštni naslov, ne dovolimo, prosimo poskusite znova z drugim e-poštnim naslovom";
 
-$_LANG["maxmind_title"] = "MaxMind";
+$_LANG['maxmind_title'] = "MaxMind";
 
-$_LANG["ordererrorserverhostnameinuse"] = "Ime gostitelja, ki ste ga vnesli, je že v uporabi. Prosimo izberite drugo ime.";
+$_LANG['ordererrorserverhostnameinuse'] = "Ime gostitelja, ki ste ga vnesli, je že v uporabi. Prosimo izberite drugo ime.";
 
-$_LANG["varilogixfraudcall_callnow"] = "Pokliči zdaj!";
+$_LANG['varilogixfraudcall_callnow'] = "Pokliči zdaj!";
 
-$_LANG["varilogixfraudcall_description"] = "Za preprečitev zlorabe vas bomo v kratkem času poklicali na vašo telefonsko številko, kjer bomo od vas zahtevali osnovne informacije naročila. S tem boste potrdili vaše naročilo.";
+$_LANG['varilogixfraudcall_description'] = "Za preprečitev zlorabe vas bomo v kratkem času poklicali na vašo telefonsko številko, kjer bomo od vas zahtevali osnovne informacije naročila. S tem boste potrdili vaše naročilo.";
 
-$_LANG["varilogixfraudcall_error"] = "Prišlo je do napake in vas nismo morali poklicati na vašo telefonsko številko za potrditev vašega naročila. Prosimo, da čimprej kontaktirate našo pomoč za dokončanje vašega naročila.";
+$_LANG['varilogixfraudcall_error'] = "Prišlo je do napake in vas nismo morali poklicati na vašo telefonsko številko za potrditev vašega naročila. Prosimo, da čimprej kontaktirate našo pomoč za dokončanje vašega naročila.";
 
-$_LANG["varilogixfraudcall_fail"] = "Telefonski klic za preverjanje vašega naročila ni uspel. To je lahko zato, ker vaša telefonska številka ni pravilno vpisana ali pa je na črni listi v našem sistemu. Prosimo, da čimprej kontaktirate našo pomoč za dokončanje vašega naročila.";
+$_LANG['varilogixfraudcall_fail'] = "Telefonski klic za preverjanje vašega naročila ni uspel. To je lahko zato, ker vaša telefonska številka ni pravilno vpisana ali pa je na črni listi v našem sistemu. Prosimo, da čimprej kontaktirate našo pomoč za dokončanje vašega naročila.";
 
-$_LANG["varilogixfraudcall_failed"] = "Ni uspelo";
+$_LANG['varilogixfraudcall_failed'] = "Ni uspelo";
 
-$_LANG["varilogixfraudcall_pincode"] = "Pin koda";
+$_LANG['varilogixfraudcall_pincode'] = "Pin koda";
 
-$_LANG["varilogixfraudcall_title"] = "VariLogix klic proti zlorabi";
+$_LANG['varilogixfraudcall_title'] = "VariLogix klic proti zlorabi";
 
 
 # Version 4.5.2
@@ -1878,29 +1878,29 @@ $_LANG['ajaxcartcheckout'] = "Takoj pojdi na blagajno &raquo;";
 $_LANG['ajaxcartconfigreqnotice'] = "Za uspešno opravljen nakup, morate najprej izbrati domeno in nato dodati vaš izbran produkt v košarico...";
 
 
-$_LANG["addmore"] = "Dodaj več";
-$_LANG["changessavedsuccessfully"] = "Spremembe so bile uspešno shranjene!";
-$_LANG["clientareachoosecontact"] = "Izberite kontakt";
-$_LANG["domaineppcoderequired"] = "Vnesti morate EPP - Avtentikacijsko kodo za";
-$_LANG["maxmind_anonproxy"] = "Oddajo naročil pod neznanimi podatki (Anonymous Proxy) ne dovoljujemo";
-$_LANG["maxmind_callingnow"] = "Vzpostavljamo avtomatski telefonski klic na vašo kontaktno številko. To je del naših ukrepov za preverjanje goljufij. Prejeli boste 4 mestno varnostno kodo, katero vpišete spodaj za uspešno zaključitev naročila.";
-$_LANG["maxmind_countrymismatch"] = "Vaša trenutna IP številka se ne ujema z IP številko vaše izbrane države za plačilo, zato na žalost ne moremo zaključiti vašega naročila.";
-$_LANG["maxmind_error"] = "Napaka";
-$_LANG["maxmind_faileddescription"] = "Koda, ki ste jo vnesli je napačna. V kolikor mislite, da gre za napako, se obrnite na našo pomoč v najkrajšem možnem času";
-$_LANG["maxmind_highfraudriskscore"] = 'MaxMind je vaše naročilo smatral kot tvegano, zato je bilo posredovano na ročni pregled.<br /><br />Če menite, da ste to sporočilo prejeli po pomoti, vas prosimo, da sprejmete naše opravičilo in <a href="submitticket.php">odprete zahtevek za pomoč</a> v našemu centru za pomoč. Hvala za razumevanje!';
-$_LANG["maxmind_highriskcountry"] = "Na žalost ne moremo sprejeti vašega naročila, saj je bilo v preteklosti iz vaše države zabeleženih veliko goljufij pri plačilu. V kolikor želite plačilo opraviti po drugi metodi/načinu plačila nas prosimo kontaktirajte.";
-$_LANG["maxmind_incorrectcode"] = "Napačna koda";
-$_LANG["maxmind_pincode"] = "PIN koda";
-$_LANG["maxmind_rejectemail"] = "Naročila, ki so oddana preko brezplačnih e-mail naslovov, ne dovoljujemo. Prosim vpišite drug e-mail naslov in poizkusite znova";
-$_LANG["maxmind_title"] = "MaxMind";
-$_LANG["ordererrorserverhostnameinuse"] = "Ime gostitelja katerega ste vnesli je že v uporabi. Prosim izberite drugega.";
-$_LANG["varilogixfraudcall_callnow"] = "Pokličite zdaj!";
-$_LANG["varilogixfraudcall_description"] = "Kot del naših ukrepov za preprečevanje goljufij, vas bomo poklicali na vašo kontanktno telefonsko številko, katero imate vpisano v vašem profilu in vas povprašali po zgoraj navedeni PIN kodi. Prosimo zabeležite si vašo kodo in kliknite na spodnji gumb, ko boste pripravljeni.";
-$_LANG["varilogixfraudcall_error"] = "Prišlo je do napake pri vzpostavljanju povezave z vašo telefonsko številko, da bi lahko preverili vaše naročilo. za uspešno zaključitev naročila vas prosimo, da se čim hitreje obrnete na našo pomoč.";
-$_LANG["varilogixfraudcall_fail"] = "Klic za preverjanje vašega naročila ni uspel. Do napake je lahko prišlo zaradi napačno vpisane telefonske številke ali pa je ta na črni listi v našem sistemu. Prosimo vas, da se čim hitreje obrnete na našo pomoč, da lahko uspešno zaključimo vaše naročilo.";
-$_LANG["varilogixfraudcall_failed"] = "Ni uspelo";
-$_LANG["varilogixfraudcall_pincode"] = "PIN koda";
-$_LANG["varilogixfraudcall_title"] = "VariLogix FraudCall";
+$_LANG['addmore'] = "Dodaj več";
+$_LANG['changessavedsuccessfully'] = "Spremembe so bile uspešno shranjene!";
+$_LANG['clientareachoosecontact'] = "Izberite kontakt";
+$_LANG['domaineppcoderequired'] = "Vnesti morate EPP - Avtentikacijsko kodo za";
+$_LANG['maxmind_anonproxy'] = "Oddajo naročil pod neznanimi podatki (Anonymous Proxy) ne dovoljujemo";
+$_LANG['maxmind_callingnow'] = "Vzpostavljamo avtomatski telefonski klic na vašo kontaktno številko. To je del naših ukrepov za preverjanje goljufij. Prejeli boste 4 mestno varnostno kodo, katero vpišete spodaj za uspešno zaključitev naročila.";
+$_LANG['maxmind_countrymismatch'] = "Vaša trenutna IP številka se ne ujema z IP številko vaše izbrane države za plačilo, zato na žalost ne moremo zaključiti vašega naročila.";
+$_LANG['maxmind_error'] = "Napaka";
+$_LANG['maxmind_faileddescription'] = "Koda, ki ste jo vnesli je napačna. V kolikor mislite, da gre za napako, se obrnite na našo pomoč v najkrajšem možnem času";
+$_LANG['maxmind_highfraudriskscore'] = 'MaxMind je vaše naročilo smatral kot tvegano, zato je bilo posredovano na ročni pregled.<br /><br />Če menite, da ste to sporočilo prejeli po pomoti, vas prosimo, da sprejmete naše opravičilo in <a href="submitticket.php">odprete zahtevek za pomoč</a> v našemu centru za pomoč. Hvala za razumevanje!';
+$_LANG['maxmind_highriskcountry'] = "Na žalost ne moremo sprejeti vašega naročila, saj je bilo v preteklosti iz vaše države zabeleženih veliko goljufij pri plačilu. V kolikor želite plačilo opraviti po drugi metodi/načinu plačila nas prosimo kontaktirajte.";
+$_LANG['maxmind_incorrectcode'] = "Napačna koda";
+$_LANG['maxmind_pincode'] = "PIN koda";
+$_LANG['maxmind_rejectemail'] = "Naročila, ki so oddana preko brezplačnih e-mail naslovov, ne dovoljujemo. Prosim vpišite drug e-mail naslov in poizkusite znova";
+$_LANG['maxmind_title'] = "MaxMind";
+$_LANG['ordererrorserverhostnameinuse'] = "Ime gostitelja katerega ste vnesli je že v uporabi. Prosim izberite drugega.";
+$_LANG['varilogixfraudcall_callnow'] = "Pokličite zdaj!";
+$_LANG['varilogixfraudcall_description'] = "Kot del naših ukrepov za preprečevanje goljufij, vas bomo poklicali na vašo kontanktno telefonsko številko, katero imate vpisano v vašem profilu in vas povprašali po zgoraj navedeni PIN kodi. Prosimo zabeležite si vašo kodo in kliknite na spodnji gumb, ko boste pripravljeni.";
+$_LANG['varilogixfraudcall_error'] = "Prišlo je do napake pri vzpostavljanju povezave z vašo telefonsko številko, da bi lahko preverili vaše naročilo. za uspešno zaključitev naročila vas prosimo, da se čim hitreje obrnete na našo pomoč.";
+$_LANG['varilogixfraudcall_fail'] = "Klic za preverjanje vašega naročila ni uspel. Do napake je lahko prišlo zaradi napačno vpisane telefonske številke ali pa je ta na črni listi v našem sistemu. Prosimo vas, da se čim hitreje obrnete na našo pomoč, da lahko uspešno zaključimo vaše naročilo.";
+$_LANG['varilogixfraudcall_failed'] = "Ni uspelo";
+$_LANG['varilogixfraudcall_pincode'] = "PIN koda";
+$_LANG['varilogixfraudcall_title'] = "VariLogix FraudCall";
 
 $_LANG['isocode'] = 'si';
 $_LANG['clientareaaddfundsdisabled'] = "Trenutno ne omogočamo plačevanja vnaprej.";
