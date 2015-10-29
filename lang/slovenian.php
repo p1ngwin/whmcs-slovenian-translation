@@ -774,10 +774,12 @@ $_LANG['domainmoreinfo'] = "Več informacij";
 
 
 $_LANG['domainavailable'] = "Prosta! Naročite sedaj!";
+$_LANG['domainavailable1'] = "Čestitamo!";
 
 
 
 $_LANG['domainunavailable'] = "Zasedena";
+$_LANG['domainunavailable1'] = "Žal!";
 
 
 
