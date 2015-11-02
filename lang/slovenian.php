@@ -57,7 +57,7 @@ $_LANG['affiliatesregdate'] = "Datum registracije";
 $_LANG['affiliatesrequestwithdrawal'] = "Zahtevajte izplačilo";
 $_LANG['affiliatessignupdate'] = "Datum nakupa";
 $_LANG['affiliatesstatus'] = "Status";
-$_LANG['affiliatestitle'] = "Affiliate program";
+$_LANG['affiliatestitle'] = "Affiliate";
 $_LANG['affiliatesvisitorsreferred'] = "Št. obiskovalcev z affiliate povezave";
 $_LANG['affiliateswithdrawalrequestsuccessful'] = "Vaša zahteva za izplačilo je bila poslana. V kratkem vas bomo kontaktirali za vaše izplačilo.";
 $_LANG['affiliateswithdrawn'] = "Skupno že izplačani znesek";
@@ -702,7 +702,7 @@ $_LANG['serverstatusoffline'] = "Offline";
 $_LANG['serverstatusonline'] = "Online";
 $_LANG['serverstatusphpinfo'] = "php info";
 $_LANG['serverstatusserverload'] = "Obremenitev";
-$_LANG['serverstatustitle'] = "Stanje sistemov";
+$_LANG['serverstatustitle'] = "Status";
 $_LANG['serverstatusuptime'] = "Delujoč";
 $_LANG['serverusername'] = "Uporabniško ime";
 $_LANG['show'] = "Prikaži";
@@ -896,11 +896,11 @@ $_LANG['orderpaymenttermtriennially'] = "na tri leta";
 $_LANG['orderpaymentterm36month'] = "Cena za 36 mesesev";
 
 $_LANG['domainrenewals'] = "Podaljšanje domene";
-$_LANG['domaindaysuntilexpiry'] = "Dni do poteka";
+$_LANG['domaindaysuntilexpiry'] = "Do poteka še";
 $_LANG['domainrenewalsnoneavailable'] = "Ni domen za podaljšanje";
-$_LANG['domainrenewalspastgraceperiod'] = "Preteklo obdobje za podaljšanje";
+$_LANG['domainrenewalspastgraceperiod'] = "Podaljšanje ni več možno";
 $_LANG['domainrenewalsingraceperiod'] = "Zadnja možnost za podaljšanje!";
-$_LANG['domainrenewalsdays'] = "Dni";
+$_LANG['domainrenewalsdays'] = "dni";
 $_LANG['domainrenewalsdaysago'] = "dni nazaj";
 
 $_LANG['invoicespartialpayments'] = "Delna plačila";
@@ -1280,7 +1280,7 @@ $_LANG['domaincurrentlyunlocked'] = "Domena je trenutno odklenjena!";
 $_LANG['domaincurrentlyunlockedexp'] = "Priporočeno je, da omogočite Zaklep registrarja, razen v primeru, če boste domeno prenesli.";
 $_LANG['searchmultipletlds'] = "Poglej druge vrhnje domene";
 
-$_LANG['networkstatustitle'] = "Stanje sistemov";
+$_LANG['networkstatustitle'] = "Status";
 $_LANG['networkstatusnone'] = "Trenutno ni %s težav na strežnikih";
 $_LANG['serverstatusheadingtext'] = "Spodnja tabela prikazuje stanje naših naših strežnikov v realnem času.";
 
@@ -1301,7 +1301,7 @@ $_LANG['domaincheckerenterdomain'] = "";
 $_LANG['domaincheckerbulkinvaliddomain'] = "Ena ali več domen katere ste vnesli so bile neveljavne in so bile odstranjene iz rezultatov";
 
 $_LANG['kbquestionsearchere'] = "Imate vprašanje? Začnite z iskanjem tukaj.";
-$_LANG['contactus'] = "Kontaktirajte nas";
+$_LANG['contactus'] = "Kontakt";
 
 $_LANG['opennewticket'] = "Odpri nov zahtevek";
 $_LANG['searchtickets'] = "Vnesite zahtevek # ali zadevo";
@@ -1621,10 +1621,10 @@ $_LANG['nodomainextensions'] = "Na voljo ni nobenih domenskih razširitev";
 $_LANG['homebegin'] = "Iskanje vaše nove domene se začne tu...";
 $_LANG['howcanwehelp'] = "Kako vam lahko pomagamo?";
 $_LANG['exampledomain'] = "eg. vasa-domena.si";
-$_LANG['buyadomain'] = "Registriraj domeno";
-$_LANG['orderhosting'] = "Naroči gostovanje";
-$_LANG['makepayment'] = "Plačaj";
-$_LANG['getsupport'] = "Kontaktiraj podporo";
+$_LANG['buyadomain'] = "Domene";
+$_LANG['orderhosting'] = "Gostovanje";
+$_LANG['makepayment'] = "Plačila";
+$_LANG['getsupport'] = "Podpora";
 
 $_LANG['news'] = "Novice";
 $_LANG['allthelatest'] = "Zadnje od";
