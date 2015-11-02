@@ -1654,7 +1654,7 @@ $_LANG['domainssearchresults'] = "Rezultati iskanja";
 $_LANG['domainssuggestions'] = "Predlogi";
 $_LANG['domainsothersuggestions'] = "Morda vas zanimajo naslednje alternativne domene";
 $_LANG['domainsmoresuggestions'] = "Da, več predlogov!";
-$_LANG['domainssuggestionswarnings'] = "Predlagane domene morda niso na voljo. Njihova dejanska dostopnost se preveri, ko jih dodate v nakupovalno košaro.";
+$_LANG['domainssuggestionswarnings'] = "Predlagane domene morda niso na voljo. Njihova dejanska dostopnost se preveri, ko jih dodate v nakupovalno košarico.";
 $_LANG['disclaimers'] = "Izjava o omejitvi odgovornosti";
 $_LANG['tldpricing'] = "Cenik domen";
 $_LANG['alltldpricing'] = "Celoten cenik domen";
@@ -1896,7 +1896,7 @@ $_LANG['billingAddress'] = "Naslov za račune";
 
 $_LANG['noPasswordResetWhenLoggedIn'] = "Ponastavitve gesla ni mogoče izvesti, dokler ste prijavljeni. Odjavite se in poizkusite ponovno.";
 
-$_LANG['unableToLoadShoppingCart'] = "Napaka nakupovalne košare. Kontaktirajte našo podporo";
+$_LANG['unableToLoadShoppingCart'] = "Napaka nakupovalne košarice. Kontaktirajte našo podporo";
 
 $_LANG['showMenu'] = "Prikaži menu";
 $_LANG['hideMenu'] = "Skrij menu";
@@ -1946,7 +1946,7 @@ $_LANG['orderForm']['haveQuestionsContact'] = "Imate vprašanje? Kontaktirajte n
 $_LANG['orderForm']['use'] = "Uporabi";
 $_LANG['orderForm']['check'] = "Preveri";
 $_LANG['orderForm']['transfer'] = "Prenesi";
-$_LANG['orderForm']['domainAddedToCart'] = "Ta domena je bila dodana v nakupovalno košaro.";
+$_LANG['orderForm']['domainAddedToCart'] = "Ta domena je bila dodana v nakupovalno košarico.";
 $_LANG['orderForm']['registerLongerAndSave'] = "Registrirajte za daljše obdobje in prihranite!";
 $_LANG['orderForm']['tryRegisteringInstead'] = "Poizkusite registrirati raje to domeno.";
 $_LANG['orderForm']['domainAvailabilityCached'] = "Podatek o zasedenosti domene je shranjen v t.i. \"cache\"-u in zato morda neažuren.";
