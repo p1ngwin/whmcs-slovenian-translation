@@ -1326,7 +1326,7 @@ $_LANG['affiliatesignupinfo3'] = "Če želite izvedeti več, nas prosimo kontakt
 # Version 5.1
 
 $_LANG['copyright'] = "Copyright";
-$_LANG['allrightsreserved'] = "Vse pravice pridržane";
+$_LANG['allrightsreserved'] = "Vse pravice pridržane. <a href=\"https://github.com/spletnasoba/whmcs-translation-slovenian\">Slovenian translation</a> provided by <a href=\"http://spletnasoba.si\">SpletnaSoba</a>";
 $_LANG['supportticketsclose'] = "Zapri zahtevek";
 $_LANG['affiliatesinitialthen'] = "Najprej";
 $_LANG['invoicesoutstandingbalance'] = "Neporavnane Obveznosti";
