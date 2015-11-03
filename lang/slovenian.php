@@ -1620,7 +1620,7 @@ $_LANG['nodomainextensions'] = "Na voljo ni nobenih domenskih razširitev";
 
 $_LANG['homebegin'] = "Iskanje vaše nove domene se začne tu...";
 $_LANG['howcanwehelp'] = "Kako vam lahko pomagamo?";
-$_LANG['exampledomain'] = "eg. vasa-domena.si";
+$_LANG['exampledomain'] = "npr. vasa-nova-domena.si";
 $_LANG['buyadomain'] = "Domene";
 $_LANG['orderhosting'] = "Gostovanje";
 $_LANG['makepayment'] = "Plačila";
