@@ -49,3 +49,15 @@ Klasičen GitHub workflow:
 Opozorilo: s prispevanjem svojih popravkov v ta repozitorij se strinjate,
 da so ti popravki na voljo upravljalcu tega repozitorija (in svetu) pod
 MIT licenco.
+
+
+
+### Lokacije git repozitorijev:
+
+Primarni repozitorij za javno sprejemanje popravkov:
+* https://github.com/SpletnaSoba/whmcs-slovenian-translation
+
+Backup mirrorji:
+* https://bitbucket.org/SpletnaSoba/whmcs-slovenian-translation
+* https://gitlab.com/spletnasoba/whmcs-slovenian-translation
+* https://git.teon.si/spletnasoba/whmcs-slovenian-translation (interni primarni repozitorij)
