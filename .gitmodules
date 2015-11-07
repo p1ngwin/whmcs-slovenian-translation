@@ -1,0 +1,3 @@
+[submodule "sbin/git-push-everywhere"]
+	path = sbin/git-push-everywhere
+	url = git@github.com:a2o/git-push-everywhere.git

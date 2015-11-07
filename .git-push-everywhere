@@ -1,0 +1,14 @@
+[git-push-everywhere]
+    gitroot = ./
+
+
+
+[remote "git-push-everywhere"]
+
+    # Primary - first one
+    pushurl = git@git.teon.si:spletnasoba/whmcs-slovenian-translation.git
+
+    # Mirrors
+    pushurl = git@github.com:spletnasoba/whmcs-slovenian-translation.git
+    pushurl = git@bitbucket.org:spletnasoba/whmcs-slovenian-translation.git
+    pushurl = git@gitlab.com:spletnasoba/whmcs-slovenian-translation.git
